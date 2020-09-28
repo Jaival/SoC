@@ -2,4 +2,4 @@
  RMI Basic Calculator
  
  
-<img src = "screenshots/server" />
+<img src = "screenshots/Client.png" />
