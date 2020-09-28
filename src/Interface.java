@@ -9,6 +9,3 @@ public interface Interface extends Remote {
     double Square_Root(double a) throws RemoteException;
     double Log(double a) throws RemoteException;
 }
-
-
-
